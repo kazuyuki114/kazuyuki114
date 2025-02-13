@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nguyen Trung Kien and I'm a chill guy from VietNam</h2>
+<h2 align="left">Hi 👋! My name is Nguyen Trung Kien and I'm a chill guy, from VietNam</h2>
 
 ###
 
@@ -50,5 +50,7 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/kazuyuki114/kazuyuki114/output/snake.svg" alt="Snake animation" />
 
 ###
