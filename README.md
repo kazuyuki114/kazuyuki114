@@ -51,6 +51,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kazuyuki114/kazuyuki114/output/snake.svg" alt="Snake animation" />
-
 ###
